@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 😄 I’m a developer and shutterbug
 - 🔭 I’m currently working on a tech company in Beijing
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning Typescript
 - 🤔 I’m looking for help with my photo and my code
 - 💬 Ask me about everything
 - 📫 How to reach me: chang_zhenlin@126.com
