@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=changzhenlin&show_icons=true&theme=dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changzhenlin&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
