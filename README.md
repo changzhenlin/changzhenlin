@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=changzhenlin&show_icons=true&theme=dark&count_private=true)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-⏳ Year progress { ██████████████████████████▁▁▁▁ } 88.86 %
+⏳ Year progress { ██████████████████████████▁▁▁▁ } 88.89 %
 
 ---
 
-⏰ Updated on Mon, 21 Nov 2022 08:28:57 GMT
+⏰ Updated on Mon, 21 Nov 2022 10:45:29 GMT
 
