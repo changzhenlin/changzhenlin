@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=changzhenlin&show_icons=true&theme=dark&count_private=true)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
