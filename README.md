@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=changzhenlin&hide_border=false&border_radius=3.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
+<br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
