@@ -28,7 +28,8 @@ Here are some ideas to get you started:
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changzhenlin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-[![changzhenlin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=xcode)](https://github.com/changzhenlin)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C198%20hrs%2050%20mins-blue)
