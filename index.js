@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changzhenlin&hide=TeX&layout=compact)
 
+[![changzhenlin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=xcode)](https://github.com/changzhenlin)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
