@@ -37,11 +37,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
-
 ---
 
 ⏰ Updated on ${new Date().toUTCString()}
 `
-
-console.log(readme)
