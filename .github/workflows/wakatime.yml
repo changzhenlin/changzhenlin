@@ -12,7 +12,7 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: changzhenlin/waka-readme-stats@main
         with:
           API_BASE_URL: https://wakapi.dev/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
