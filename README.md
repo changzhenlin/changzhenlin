@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=changzhenlin&hide_border=true&border_radius=3.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=changzhenlin&show_icons=true&include_all_commits=true&count_private=true)
 
 [![changzhenlin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=xcode)](https://github.com/changzhenlin)
@@ -95,8 +97,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 22/11/2022 09:41:50 UTC
 <!--END_SECTION:waka-->
-
-⏳ Year progress { ██████████████████████████▁▁▁▁ } 89.15 %
 
 ---
 
