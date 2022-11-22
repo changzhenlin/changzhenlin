@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changzhenlin&hide=TeX&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C198%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-454-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-493-blue)
 
 **🐱 My GitHub Data** 
 
@@ -37,6 +35,51 @@ Here are some ideas to get you started:
  > 
 > 🔑 5 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
+🌆 Daytime    54 commits     ████████████████░░░░░░░░░   65.06% 
+🌃 Evening    20 commits     ██████░░░░░░░░░░░░░░░░░░░   24.1% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       37 commits     ███████████░░░░░░░░░░░░░░   44.58% 
+Tuesday      11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
+Wednesday    14 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
+Thursday     10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
+Friday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
+Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
+Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    44 hrs 54 mins      ███████████████████████░░   92.22% 
+Vue.js                   1 hr 30 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11% 
+TypeScript               50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
+JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
+CSS                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+
+🔥 Editors: 
+Browser                  44 hrs 54 mins      ███████████████████████░░   92.2% 
+VS Code                  3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.8%
+
+💻 Operating System: 
+Mac                      30 hrs 20 mins      ███████████████░░░░░░░░░░   62.29% 
+Windows                  18 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   37.71%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -50,7 +93,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2022 09:04:18 UTC
+ Last Updated on 22/11/2022 09:11:53 UTC
 <!--END_SECTION:waka-->
 
 ⏳ Year progress { ██████████████████████████▁▁▁▁ } 89.11 %
