@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          API_BASE_URL: https ://wakapi.dev/api
+          API_BASE_URL: https://wakapi.dev/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # 提交消息
           COMMIT_MESSAGE: Update Wakapi stats
