@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chang_zhenlin@126.com
 - ⚡ Fun fact: This page mustn't get more than 1k views🤣
 
-<div align="center">
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
