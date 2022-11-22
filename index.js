@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=changzhenlin&show_icons=true&include_all_commits=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changzhenlin&hide=TeX&layout=compact)
-
 [![changzhenlin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=xcode)](https://github.com/changzhenlin)
 
 <!--START_SECTION:waka-->
