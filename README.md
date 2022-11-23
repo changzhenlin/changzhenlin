@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <iframe src="https://giphy.com/embed/G90BPjJbzidJIbVs54" width="480" height="339" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/G90BPjJbzidJIbVs54">via GIPHY</a></p>
-<!--   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
+  <img width="150" src="[https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png](https://giphy.com/embed/G90BPjJbzidJIbVs54)" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
