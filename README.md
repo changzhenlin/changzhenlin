@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="270" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
+  <img width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
+  <img width="590" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
 </div>
 <br>
 
