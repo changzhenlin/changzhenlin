@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- 连续提交代码天数记录 -->
 <div align="center">
   <img width="200" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
 </div>
 <br>
 
