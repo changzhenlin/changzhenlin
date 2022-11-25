@@ -20,14 +20,9 @@ Here are some ideas to get you started:
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changzhenlin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=437226058&type=0&width=350&show_percent=1)](https://netease-recent-profile.vercel.app/?id=437226058&type=0&width=350&show_percent=1)
-
-<img style="float:right" width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
-![ceshi](https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif)
-
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  
+  <img style="float:right" width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
   <img width="590" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
 </div>
 <br>
@@ -112,6 +107,8 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 25/11/2022 00:34:31 UTC
 <!--END_SECTION:waka-->
+
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=437226058&type=1&width=800&show_percent=1)](https://netease-recent-profile.vercel.app/?id=437226058&type=1&width=800&show_percent=1)
 
 ---
 
