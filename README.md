@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changzhenlin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=628635057)](https://netease-recent-profile.vercel.app/?id=628635057)
+
 <!-- 连续提交代码天数记录 -->
 <div align="center">
   <img width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
