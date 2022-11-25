@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=437226058)](https://netease-recent-profile.vercel.app/?id=437226058)
 
+<img style="float:left" width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
+
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
+  
   <img width="590" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
 </div>
 <br>
