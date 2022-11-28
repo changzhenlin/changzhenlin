@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chang_zhenlin@126.com
 - ⚡ Fun fact: This page mustn't get more than 1k views🤣
 
-![badage](https://badgen.net/badge/color/green/green)
-![badage](https://badgen.net/badge/icon/apple?icon=apple&label)
+![apple](https://badgen.net/badge/icon/apple?icon=apple&label)
+![atom](https://badgen.net/badge/icon/atom?icon=atom&label)
+![commits](https://badgen.net/github/commits/micromatch/micromatch)
 
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
 
