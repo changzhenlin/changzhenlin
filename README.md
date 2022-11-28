@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ![badage](https://badgen.net/badge/color/green/green)
 
-![badage]([https://badgen.net/badge/color/green/green](https://badgen.net/badge/icon/apple?icon=apple&label)
+![badage](https://badgen.net/badge/icon/apple?icon=apple&label)
 
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
 
