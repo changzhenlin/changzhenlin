@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: This page mustn't get more than 1k views🤣
 
 ![https://apple.com](https://badgen.net/badge/icon/apple?icon=apple&label)
-![atom](https://badgen.net/badge/icon/atom?icon=atom&label)
-![https://badgen.net/github/commits/micromatch/micromatch](https://badgen.net/badge/icon/chrome?icon=chrome&label)
 ![https://badgen.net/github/commits/micromatch/micromatch](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)
 ![https://www.typescriptlang.org/](https://badgen.net/badge/icon/typescript?icon=typescript&label)
 
