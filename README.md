@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 😄 I’m a developer and shutterbug
 - 🔭 I’m currently working on a tech company in Beijing
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning typescript
 - 🛺 I’m looking for help with my photo and my code
 - 💬 Ask me about everything
 - ⚡ Fun fact: This page mustn't get more than 1k views🤣
