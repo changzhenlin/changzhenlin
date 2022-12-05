@@ -113,6 +113,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 05/12/2022 00:31:35 UTC
 <!--END_SECTION:waka-->
-
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=437226058&type=1&width=850&show_percent=1&title=Recent Played Top 3&number=3)](https://netease-recent-profile.vercel.app/?id=437226058&type=1&width=850&show_percent=1&title=Recent Played Top 3&number=3)
 ---
 
