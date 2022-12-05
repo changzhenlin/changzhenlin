@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![changzhenlin's github activity graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=dracula)](https://github.com/changzhenlin)
 
 
 <!--START_SECTION:waka-->
