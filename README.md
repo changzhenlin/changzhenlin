@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C347%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C358%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 206 Contributions in the Year 2022
+> 🏆 207 Contributions in the Year 2022
  > 
 > 📦 195.0 kB Used in GitHub's Storage 
  > 
@@ -56,17 +56,17 @@ Here are some ideas to get you started:
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Smarty                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Smarty                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
 
 
- Last Updated on 13/12/2022 00:35:02 UTC
+ Last Updated on 14/12/2022 00:31:41 UTC
 <!--END_SECTION:waka-->
 
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=437226058&width=850)](https://netease-recent-profile.vercel.app/?id=437226058&width=850)
