@@ -37,22 +37,67 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C358%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C361%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 207 Contributions in the Year 2022
+> 🏆 205 Contributions in the Year 2022
  > 
 > 📦 195.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 31 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    62 commits     ██████░░░░░░░░░░░░░░░░░░░   25.2% 
+🌆 Daytime    89 commits     █████████░░░░░░░░░░░░░░░░   36.18% 
+🌃 Evening    95 commits     █████████░░░░░░░░░░░░░░░░   38.62% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       48 commits     █████░░░░░░░░░░░░░░░░░░░░   19.51% 
+Tuesday      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+Wednesday    66 commits     ██████░░░░░░░░░░░░░░░░░░░   26.83% 
+Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
+Friday       41 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
+Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.1%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    30 hrs 49 mins      █████████████████████░░░░   86.44% 
+Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
+Vue.js                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.53% 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72% 
+Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+
+🔥 Editors: 
+Browser                  30 hrs 49 mins      █████████████████████░░░░   86.44% 
+VS Code                  4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56%
+
+💻 Operating System: 
+Windows                  30 hrs 49 mins      █████████████████████░░░░   86.44% 
+Mac                      4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56%
+
+```
+
 **I Mostly Code in CSS** 
 
 ```text
@@ -66,7 +111,7 @@ Smarty                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2022 00:31:41 UTC
+ Last Updated on 15/12/2022 00:34:25 UTC
 <!--END_SECTION:waka-->
 
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=437226058&width=850)](https://netease-recent-profile.vercel.app/?id=437226058&width=850)
