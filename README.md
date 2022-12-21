@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything
 - ⚡ Fun fact: This page mustn't get more than 1k views🤣
 
-![https://apple.com](https://badgen.net/badge/icon/apple?icon=apple&label)
+![https://apple.com](https://badgen.net/badge/icon/apple/grey?icon=apple&label)
 ![https://badgen.net/github/commits/micromatch/micromatch](https://badgen.net/badge/icon/bitcoin/yellow?icon=bitcoin&label)
 ![https://www.typescriptlang.org/](https://badgen.net/badge/icon/typescript?icon=typescript&label)
 ![https://www.changzhenlin.top/](https://img.shields.io/badge/website-me-blue?logo=Blogger)
