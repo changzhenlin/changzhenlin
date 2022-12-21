@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-[![changzhenlin's github activity graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=dracula)](https://github.com/changzhenlin)
+<!-- [![changzhenlin's github activity graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=dracula)](https://github.com/changzhenlin) -->
+[![changzhenlin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=changzhenlin&theme=xcode&bg_color=FF000000&hide_border=true)](https://github.com/changzhenlin)
 
 
 <!--START_SECTION:waka-->
