@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![https://www.instagram.com/czl1119/](https://img.shields.io/badge/photo-shot-black?logo=Photobucket)
 [![https://google.com](https://badgen.net/badge/icon/chrome/green?icon=chrome&label)](https://google.com)
 [![https://google.com](https://badgen.net/badge/icon/atom/cyan?icon=atom&label)](https://google.com)
+[![https://code.visualstudio.com](https://badgen.net/badge/icon/visualstudio/purple?icon=visualstudio&label)](https://code.visualstudio.com)
 
 
 
