@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![https://twitter.com/czltt](https://img.shields.io/badge/twitter-tt-blue?logo=Twitter)
 ![https://space.bilibili.com/396570990](https://img.shields.io/badge/bilibili-up-pink?logo=Bilibili)
 ![https://www.instagram.com/czl1119/](https://img.shields.io/badge/instagram-follow-red?logo=Instagram)
+![https://www.zhihu.com/people/yun-yun-yun-99-70](https://img.shields.io/badge/zhihu-q-blue?logo=Zhihu)
 
 
 
