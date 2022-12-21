@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ![https://apple.com](https://badgen.net/badge/icon/apple?icon=apple&label)
 ![https://badgen.net/github/commits/micromatch/micromatch](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)
 ![https://www.typescriptlang.org/](https://badgen.net/badge/icon/typescript?icon=typescript&label)
-![https://www.changzhenlin.top/](https://img.shields.io/badge/website-me-blue)
+![https://www.changzhenlin.top/](https://img.shields.io/badge/website-me-blue?logo=Blogger)
 
 
 
