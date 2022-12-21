@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ![https://www.typescriptlang.org/](https://badgen.net/badge/icon/typescript?icon=typescript&label)
 ![https://www.changzhenlin.top/](https://img.shields.io/badge/website-me-blue?logo=Blogger)
 ![https://twitter.com/czltt](https://img.shields.io/badge/twitter-tt-blue?logo=Twitter)
+![https://space.bilibili.com/396570990](https://img.shields.io/badge/bilibili-up-pink?logo=Bilibili)
 
 
 
