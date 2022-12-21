@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![https://badgen.net/github/commits/micromatch/micromatch](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)
 ![https://www.typescriptlang.org/](https://badgen.net/badge/icon/typescript?icon=typescript&label)
 ![https://www.changzhenlin.top/](https://img.shields.io/badge/website-me-blue?logo=Blogger)
-![https://twitter.com/czltt](https://img.shields.io/badge?logo=Twitter)
+![https://twitter.com/czltt](https://img.shields.io/badge/twitter-tt-blue?logo=Twitter)
 
 
 
