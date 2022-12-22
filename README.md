@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 [![https://www.instagram.com/czl1119/](https://img.shields.io/badge/instagram-follow-red?logo=Instagram)](https://www.instagram.com/czl1119/)
 [![https://stackoverflow.com](https://img.shields.io/badge/stack-overflow-yellow?logo=StackOverflow)](https://stackoverflow.com/users/18425030/tyler)
 [![https://www.zhihu.com/people/yun-yun-yun-99-70](https://img.shields.io/badge/zhihu-q-blue?logo=Zhihu)](https://www.zhihu.com/people/yun-yun-yun-99-70)
+[![https://tailwindcss.com/](https://img.shields.io/badge/tailwind-css-pink?logo=TailwindCSS)](https://tailwindcss.com/)
 [![https://www.youtube.com/@czl97](https://img.shields.io/badge/youtube-channel-red?logo=Youtube)](https://www.youtube.com/@czl97)
 ![https://www.instagram.com/czl1119/](https://img.shields.io/badge/photo-shot-black?logo=Photobucket)
 [![https://google.com](https://badgen.net/badge/icon/chrome/green?icon=chrome&label)](https://google.com)
 [![https://google.com](https://badgen.net/badge/icon/atom/cyan?icon=atom&label)](https://google.com)
 [![https://code.visualstudio.com](https://badgen.net/badge/icon/visualstudio/purple?icon=visualstudio&label)](https://code.visualstudio.com)
-[![https://tailwindcss.com/](https://img.shields.io/badge/tailwind-css-pink?logo=TailwindCSS)](https://tailwindcss.com/)
+[![https://wakatime.com/](https://img.shields.io/badge/waka-time-black?logo=WakaTime)](https://wakatime.com/)
 
 
 
