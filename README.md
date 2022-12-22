@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![https://badgen.net/github/commits/micromatch/micromatch](https://badgen.net/badge/icon/bitcoin/yellow?icon=bitcoin&label)
 [![https://www.typescriptlang.org/](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://www.typescriptlang.org)
 [![https://www.changzhenlin.top/](https://img.shields.io/badge/website-me-green?logo=Blogger)](https://www.changzhenlin.top)
-[![https://twitter.com/czltt](https://img.shields.io/badge/twitter-tt-blue?logo=Twitter)](https://twitter.com/czltt)
+[![https://twitter.com/czltt](https://img.shields.io/badge/twitter-tyler-blue?logo=Twitter)](https://twitter.com/czltt)
 [![https://space.bilibili.com/396570990](https://img.shields.io/badge/bilibili-up-pink?logo=Bilibili)](https://space.bilibili.com/396570990)
 [![https://www.instagram.com/czl1119/](https://img.shields.io/badge/instagram-follow-red?logo=Instagram)](https://www.instagram.com/czl1119/)
 [![https://stackoverflow.com](https://img.shields.io/badge/stack-overflow-yellow?logo=StackOverflow)](https://stackoverflow.com/users/18425030/tyler)
