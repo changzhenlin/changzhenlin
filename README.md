@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: This page mustn't get more than 1k views🤣
 
 [![https://apple.com](https://badgen.net/badge/icon/apple/grey?icon=apple&label)](https://apple.com)
-[![https://github.com](https://badgen.net/badge/icon/github/pink?icon=github&label)](https://github.com)
+[![https://github.com](https://badgen.net/badge/icon/github/orange?icon=github&label)](https://github.com)
 ![https://badgen.net/github/commits/micromatch/micromatch](https://badgen.net/badge/icon/bitcoin/yellow?icon=bitcoin&label)
 [![https://www.typescriptlang.org/](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://www.typescriptlang.org)
 [![https://www.changzhenlin.top/](https://img.shields.io/badge/website-me-green?logo=Blogger)](https://www.changzhenlin.top)
