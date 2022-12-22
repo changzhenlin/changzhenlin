@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 [![https://google.com](https://badgen.net/badge/icon/atom/cyan?icon=atom&label)](https://google.com)
 [![https://code.visualstudio.com](https://badgen.net/badge/icon/visualstudio/purple?icon=visualstudio&label)](https://code.visualstudio.com)
 [![https://wakatime.com/](https://img.shields.io/badge/waka-time-black?logo=WakaTime)](https://wakatime.com/)
+[![https://leetcode.com](https://img.shields.io/badge/leet-code-grey?logo=LeetCode)](https://leetcode.com)
 
 
 
