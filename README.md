@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [![https://tailwindcss.com/](https://img.shields.io/badge/tailwind-css-pink?logo=TailwindCSS)](https://tailwindcss.com/)
 [![https://www.youtube.com/@czl97](https://img.shields.io/badge/youtube-channel-red?logo=Youtube)](https://www.youtube.com/@czl97)
 ![https://www.instagram.com/czl1119/](https://img.shields.io/badge/photo-shot-black?logo=Photobucket)
-[![https://wakatime.com/](https://img.shields.io/badge/waka-time-black?logo=WakaTime)](https://wakatime.com/)
 [![https://leetcode.com](https://img.shields.io/badge/leet-code-grey?logo=LeetCode)](https://leetcode.com)
 
 
