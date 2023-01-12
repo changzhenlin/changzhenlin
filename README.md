@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything
 - ⚡ Fun fact: This page mustn't get more than 1k views🤣
 
-![https://badgen.net/github/commits/micromatch/micromatch](https://badgen.net/badge/icon/bitcoin/yellow?icon=bitcoin&label)
 [![https://www.changzhenlin.top/](https://img.shields.io/badge/website-me-green?logo=Blogger)](https://www.changzhenlin.top)
 [![https://twitter.com/czltt](https://img.shields.io/badge/twitter-tyler-blue?logo=Twitter)](https://twitter.com/czltt)
 [![https://space.bilibili.com/396570990](https://img.shields.io/badge/bilibili-up-pink?logo=Bilibili)](https://space.bilibili.com/396570990)
