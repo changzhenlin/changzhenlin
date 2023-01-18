@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![https://www.zhihu.com/people/yun-yun-yun-99-70](https://img.shields.io/badge/zhihu-知-blue?logo=Zhihu)](https://www.zhihu.com/people/yun-yun-yun-99-70)
 [![https://tailwindcss.com/](https://img.shields.io/badge/tailwind-css-pink?logo=TailwindCSS)](https://tailwindcss.com/)
 [![https://www.youtube.com/@czl97](https://img.shields.io/badge/youtube-channel-red?logo=Youtube)](https://www.youtube.com/@czl97)
-[![https://leetcode.com](https://img.shields.io/badge/leet-code-grey?logo=LeetCode)](https://leetcode.com)
 
 
 
