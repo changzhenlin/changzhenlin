@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C548%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
@@ -119,7 +119,7 @@ Smarty                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2023 00:35:08 UTC
+ Last Updated on 23/01/2023 00:31:04 UTC
 <!--END_SECTION:waka-->
 
 ### wakatime coding activity:
