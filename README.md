@@ -34,14 +34,16 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 连续提交代码天数记录 -->
-<div align="center">
+<!-- <div align="center">
 <!--   <img style="float:right" width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" /> -->
   <img width="590" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
-</div>
+</div> -->
 <br>
 
 <!-- [![changzhenlin's github activity graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=dracula)](https://github.com/changzhenlin) -->
 [![changzhenlin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=changzhenlin&theme=dracula&hide_border=true)](https://github.com/changzhenlin)
+
+![Metrics](https://metrics.lecoq.io/changzhenlin?template=classic&isocalendar=1&fortune=1&code=1&people=1&discussions=1&achievements=1&pagespeed=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=czltt&tweets.attachments=false&tweets.limit=2&fortune=false&config.timezone=Etc%2FGMT-8)
 
 
 <!--START_SECTION:waka-->
