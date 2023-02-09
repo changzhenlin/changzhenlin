@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 [![https://tailwindcss.com/](https://img.shields.io/badge/tailwind-css-pink?logo=TailwindCSS)](https://tailwindcss.com/)
 [![https://www.youtube.com/@czl97](https://img.shields.io/badge/youtube-channel-red?logo=Youtube)](https://www.youtube.com/@czl97)
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=changzhenlin)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=changzhenlin&row=1&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=changzhenlin&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
 
