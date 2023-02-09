@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 [![https://tailwindcss.com/](https://img.shields.io/badge/tailwind-css-pink?logo=TailwindCSS)](https://tailwindcss.com/)
 [![https://www.youtube.com/@czl97](https://img.shields.io/badge/youtube-channel-red?logo=Youtube)](https://www.youtube.com/@czl97)
 
-
-
-
-
-
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
+
+![Metrics](https://metrics.lecoq.io/changzhenlin?template=classic&isocalendar=1&fortune=1&code=1&people=1&discussions=1&achievements=1&pagespeed=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=czltt&tweets.attachments=false&tweets.limit=2&fortune=false&config.timezone=Etc%2FGMT-8)
 
 <!-- GitHub数据统计 -->
 <div align="center">
@@ -35,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- 连续提交代码天数记录 -->
 <!-- <div align="center">
-<!--   <img style="float:right" width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" /> -->
+ <img style="float:right" width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
   <img width="590" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
 </div> -->
 <br>
@@ -43,10 +40,7 @@ Here are some ideas to get you started:
 <!-- [![changzhenlin's github activity graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=dracula)](https://github.com/changzhenlin) -->
 [![changzhenlin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=changzhenlin&theme=dracula&hide_border=true)](https://github.com/changzhenlin)
 
-![Metrics](https://metrics.lecoq.io/changzhenlin?template=classic&isocalendar=1&fortune=1&code=1&people=1&discussions=1&achievements=1&pagespeed=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=czltt&tweets.attachments=false&tweets.limit=2&fortune=false&config.timezone=Etc%2FGMT-8)
-
-
-<!--START_SECTION:waka-->
+<!-- START_SECTION:waka -->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C556%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
@@ -129,5 +123,5 @@ Smarty                   1 repo              ██░░░░░░░░░�
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=437226058&width=850)](https://netease-recent-profile.vercel.app/?id=437226058&width=850)
 
 ---
-![Metrics](https://metrics.lecoq.io/changzhenlin?template=classic&isocalendar=1&reactions=1&skyline=1&activity=1&gists=1&achievements=1&pagespeed=1&chess=1&fortune=1&nightscout=1&tweets=1&wakatime=1&poopmap=1&stock=1&splatoon=1&screenshot=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=czltt&tweets.attachments=false&tweets.limit=2&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&chess=false&chess.user=.user.login&chess.animation=%7B%0A%20%20%22size%22%3A%2040%2C%0A%20%20%22delay%22%3A%203%2C%0A%20%20%22duration%22%3A%200.6%0A%7D%0A&fortune=false&nightscout=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&poopmap=false&poopmap.days=7&screenshot=false&screenshot.title=Screenshot&screenshot.url=changzhenlin.top&screenshot.selector=body&screenshot.mode=image&screenshot.viewport=%7B%0A%20%20%22width%22%3A%201280%2C%0A%20%20%22height%22%3A%201280%0A%7D%0A&screenshot.wait=0&screenshot.background=true&splatoon=false&splatoon.sections=player%2C%20versus%2C%20salmon-run&splatoon.versus.limit=1&splatoon.salmon.limit=1&splatoon.statink=false&splatoon.source=splatnet&stock=false&stock.duration=1d&stock.interval=5m&config.timezone=Etc%2FGMT-8)
+
 
