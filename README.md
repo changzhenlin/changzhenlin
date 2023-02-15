@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning typescript
 - 🛺 I’m looking for help with my photo and my code
 - 💬 Ask me about everything
-- ⚡ Fun fact: This page mustn't get more than 1k views🤣
 
 [![https://www.changzhenlin.top/](https://img.shields.io/badge/website-me-green?logo=Blogger)](https://www.changzhenlin.top)
 [![https://twitter.com/czltt](https://img.shields.io/badge/twitter-tyler-blue?logo=Twitter)](https://twitter.com/czltt)
