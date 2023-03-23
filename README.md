@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![https://www.instagram.com/czl1119/](https://img.shields.io/badge/instagram-follow-red?logo=Instagram)](https://www.instagram.com/czl1119/)
 [![https://stackoverflow.com](https://img.shields.io/badge/stack-overflow-yellow?logo=StackOverflow)](https://stackoverflow.com/users/18425030/tyler)
 [![https://www.zhihu.com/people/yun-yun-yun-99-70](https://img.shields.io/badge/zhihu-知-blue?logo=Zhihu)](https://www.zhihu.com/people/yun-yun-yun-99-70)
-[![https://tailwindcss.com/](https://img.shields.io/badge/tailwind-css-pink?logo=TailwindCSS)](https://tailwindcss.com/)
+[![https://ai.com/](https://img.shields.io/badge/chat-gpt-pink?logo=TailwindCSS)](https://ai.com/)
 [![https://www.youtube.com/@czl97](https://img.shields.io/badge/youtube-channel-red?logo=Youtube)](https://www.youtube.com/@czl97)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=changzhenlin&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
