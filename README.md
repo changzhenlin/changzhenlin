@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/changzhenlin/changzhenlin/blob/output/github-contribution-grid-snake.svg)
 
-![Metrics](https://metrics.lecoq.io/changzhenlin?template=classic&isocalendar=1&fortune=1&code=1&people=1&discussions=1&achievements=1&pagespeed=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=czltt&tweets.attachments=false&tweets.limit=2&fortune=false&config.timezone=Etc%2FGMT-8)
-
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changzhenlin&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=graywhite" />
