@@ -30,9 +30,6 @@ Here are some ideas to get you started:
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=changzhenlin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-<!-- [![changzhenlin's github activity graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=dracula)](https://github.com/changzhenlin) -->
-[![changzhenlin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=changzhenlin&theme=dracula&hide_border=true)](https://github.com/changzhenlin)
-
 <!-- START_SECTION:waka -->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C556%20hrs%2034%20mins-blue)
 
