@@ -30,13 +30,6 @@ Here are some ideas to get you started:
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=changzhenlin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-<!-- 连续提交代码天数记录 -->
-<!-- <div align="center">
- <img style="float:right" width="260" src="https://media.giphy.com/media/G90BPjJbzidJIbVs54/giphy.gif" />
-  <img width="590" src="https://github-readme-streak-stats.herokuapp.com/?user=changzhenlin&hide_border=true" />
-</div> -->
-<br>
-
 <!-- [![changzhenlin's github activity graph](https://activity-graph.herokuapp.com/graph?username=changzhenlin&theme=dracula)](https://github.com/changzhenlin) -->
 [![changzhenlin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=changzhenlin&theme=dracula&hide_border=true)](https://github.com/changzhenlin)
 
